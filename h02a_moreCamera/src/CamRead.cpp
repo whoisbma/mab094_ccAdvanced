@@ -20,6 +20,7 @@ void CamRead::setupVid() {
         pxColors[i] = 0;
     }
     
+    
 
    
 }
